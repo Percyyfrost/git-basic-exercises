@@ -1,0 +1,16 @@
+ 1060  git checkout Main
+ 1061  git checkout main
+ 1062  git checkout master
+ 1063  cat README.md
+ 1064  git branch
+ 1065  git checkout -b milkshake-flavours
+ 1066  git branch
+ 1067  vim milkshakes.md
+ 1068  git status
+ 1069  git add milkshakes.md
+ 1070  git commit -m "added initial flavours"
+ 1071  git log
+ 1072  git checkout master
+ 1073  git checkout -b history
+ 1074  git log
+ 1075  git branch
